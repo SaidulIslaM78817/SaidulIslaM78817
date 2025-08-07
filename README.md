@@ -1,112 +1,110 @@
-
-## 🎯 About Me
+<h1 align="center">👋 Hello, I'm Saidul Islam</h1>
+<h3 align="center">🚀 Aspiring Software Developer | Computer Science Graduate</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-<!-- Optional Banner -->
-<!-- ![Banner](https://your-banner-link.com) -->
-
-<h1 align="center">Hi, I'm Saidul Islam 👋</h1>
-
 <p align="center">
-  💻 Computer Science Graduate | 🔍 Software Developer | 🌟 Lifelong Learner
-</p>
-
-<p align="center">
-  <a href="https://tinyurl.com/Portfoliolive" target="_blank">🌍 Portfolio</a> • 
-  📧 saidulislam1117@gmail.com • 
-  📞 +8801567901437 • 
-  📍 Gazipur, Dhaka, Bangladesh
+  <a href="https://tinyurl.com/Portfoliolive" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:saidulislam1117@gmail.com">📧 Email</a> •
+  <a href="tel:+8801567901437">📞 +8801567901437</a> •
+  <a href="https://maps.google.com/?q=Gazipur,Dhaka">📍 Gazipur, Bangladesh</a>
 </p>
 
 ---
 
-### 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-Motivated and detail-oriented **Computer Science graduate** seeking an **entry-level Software Development** position.  
-Passionate about building efficient systems and solving real-world problems.  
-Strong foundation in **programming, algorithms,** and **software engineering** principles.  
-Enjoys teamwork and continuous learning.
+I'm a passionate Computer Science graduate with expertise in full-stack development and problem-solving. My journey in tech is driven by curiosity and the desire to build solutions that make an impact. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.
 
----
-
-### 🛠️ Skills & Technologies
-
-#### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-#### 🌐 Web & Backend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-</p>
-
-#### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
-
-#### ⚙️ Core CS Concepts
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms
+**What I bring to the table:**
+- Strong foundation in algorithms and software engineering principles
+- Experience building end-to-end web applications
+- Collaborative mindset with excellent communication skills
+- Continuous learning attitude
 
 ---
 
-### 🚀 Projects
+## 🛠 Technical Skills
 
-#### 📚 Library Management System *(C# / .NET Framework)*
-- Windows desktop app for borrowing, returning, registration & inventory.
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### 🛒 Online Shop Admin Panel *(NestJS + React + Tailwind CSS)*
-- Admin panel with secure login, product management, order tracking, analytics.
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🗓️ Meeting Scheduler *(ASP.NET Core / Code-First)*
-- Schedule meetings with conflict detection and email notifications.
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🌐 Network Simulation *(Cisco Packet Tracer)*
-- Simulated enterprise networks with VLAN, EIGRP, and OSPF routing.
+### 🔧 Tools & Platforms
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🎓 Education
+## 🚀 Featured Projects
 
-- 🎓 **B.Sc. in Computer Science and Engineering**  
-  *American International University - Bangladesh*  
-  *(Expected: 2025)*
+### 📚 Library Management System
+**Tech:** C#, .NET Framework, SQL Server  
+- Developed a comprehensive desktop application for library operations
+- Implemented book borrowing/returning, user registration, and inventory management
+- Features include late fee calculation and reporting
 
-- 🏫 **Higher Secondary Certificate (HSC), Science**  
-  *Comilla Cantonment College, Comilla*  
-  *(2018–2019)*
+### 🛒 E-commerce Admin Panel
+**Tech:** NestJS, React, Tailwind CSS, MongoDB  
+- Built a secure admin dashboard with JWT authentication
+- Implemented product CRUD operations, order management, and sales analytics
+- Developed responsive UI with interactive data visualizations
+
+### 🌐 Network Simulation Toolkit
+**Tech:** Cisco Packet Tracer  
+- Designed enterprise network topologies with VLAN segmentation
+- Configured EIGRP and OSPF routing protocols
+- Simulated real-world network scenarios for educational purposes
+
+[🔍 View more projects on my portfolio...](https://tinyurl.com/Portfoliolive)
 
 ---
 
-### 📫 Contact Me
+## 📚 Education
 
+**American International University - Bangladesh**  
+🎓 B.Sc. in Computer Science and Engineering (Expected 2025)  
+📚 Relevant Coursework: Data Structures, Algorithms, Database Systems, Computer Networks
+
+**Comilla Cantonment College**  
+🏫 Higher Secondary Certificate (HSC), Science (2018-2019)
+
+---
+
+## 📬 Get In Touch
+
+- 💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile) (Consider adding if you have one)
 - 📧 Email: [saidulislam1117@gmail.com](mailto:saidulislam1117@gmail.com)
-- 📞 Phone: +8801567901437
+- 📱 Phone: +8801567901437
 - 🌍 Portfolio: [https://tinyurl.com/Portfoliolive](https://tinyurl.com/Portfoliolive)
-- 📍 Location: Gazipur, Dhaka, Bangladesh
 
 ---
 
-<!-- Optional GitHub Stats Section -->
-<!-- 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Saidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulislam&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidulislam&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislam&layout=compact&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saidulislam&layout=compact&theme=tokyonight)
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="saidulislam" /> 
+</p>
