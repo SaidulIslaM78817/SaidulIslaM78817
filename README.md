@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://tinyurl.com/Portfoliolive" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:saidulislam1117@gmail.com">📧 Email</a> •
-  <a href="tel:+8801567901437">📞 +8801567901437</a> •
+  <a href="tel:+8801567901437">📞 +8801823332561</a> •
   <a href="https://maps.google.com/?q=Gazipur,Dhaka">📍 Gazipur, Bangladesh</a>
 </p>
 
